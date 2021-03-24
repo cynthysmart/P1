@@ -1,1 +1,1 @@
-# Sweedy
+# UCI
